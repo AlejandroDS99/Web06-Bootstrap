@@ -1,0 +1,7 @@
+# Lista de archivos y carpetas a ser ignoradas por git
+# Archivos ignorados del SO IOS
+.DS_Store
+
+# Ignorando archivos de video
+*.mov
+*.avi
