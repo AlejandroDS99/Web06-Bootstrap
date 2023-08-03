@@ -1,0 +1,13 @@
+.box-row {
+    border: 2px solid purple;
+    min-height: 100px;
+}
+
+.box-col {
+    border: 2px solid green;
+}
+
+.box-section {
+    border: 2px solid purple;
+    min-height: 300px;
+}
